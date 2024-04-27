@@ -58,10 +58,22 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## httprint:
 
-![image](https://github.com/Srujana0303/InformationGathering/assets/127177445/a2938162-fb26-4e1f-a9c9-aef1b0d6f3ae)
+![image](https://github.com/Srujana0303/InformationGathering/assets/132996836/88adb3e1-5fdb-4363-9cc2-ae50ca7e88f2)
 
 
 ### TCP Traceroute:
+
+![image](https://github.com/Srujana0303/InformationGathering/assets/132996836/7a992417-6140-45c9-ac87-f302b5750dc5)
+
+
+## UDP Traceroute:
+
+![image](https://github.com/Srujana0303/InformationGathering/assets/132996836/9fcec69f-6128-4006-a4f3-1b5ed25679dc)
+
+## ICMP Traceroute:
+
+![image](https://github.com/Srujana0303/InformationGathering/assets/132996836/8d21ee6f-11e0-4acf-b570-8deb552cadcb)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
